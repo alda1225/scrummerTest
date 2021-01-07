@@ -6,7 +6,8 @@ public class Main {
 	FiguraCreacion factory = new FiguraCreacion();
 	Figura cuadrado = factory.creaFigura(12f, 0f, 8f, 9F, "cuadrado");
 	Figura triangulo = factory.creaFigura(1F, 2F, 4F, 3F, "triangulo");
-	Figura circulo = factory.creaFigura(1F, 2F, 3F, 9F, "s");
+	Figura circulo = factory.creaFigura(1F, 2F, 3F, 9F, "circulo");
+	Figura errorEjemplo = factory.creaFigura(1F, 2F, 3F, 9F, "NARANJA");
 
 	if (cuadrado != null) {
 	    System.out.println(cuadrado.toString());
@@ -15,6 +16,9 @@ public class Main {
 	    System.out.println(triangulo.toString());
 	}
 	if (circulo != null) {
+	    System.out.println(circulo.toString());
+	}
+	if (errorEjemplo != null) {
 	    System.out.println(circulo.toString());
 	}
 
