@@ -10,7 +10,7 @@ Al correr la aplicacion se imprime en consola los datos ingresado en la funcion 
 <p>- diametro</p>
 <p>- tipoFigura</p>
 
-<p>- Todo esto puede ser probado y parametrizado en la clase Main</p>
+<p>Todo esto puede ser probado y parametrizado en la clase Main</p>
 
 <br></br>
 <br></br>
