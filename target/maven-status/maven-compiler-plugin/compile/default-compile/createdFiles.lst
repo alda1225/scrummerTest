@@ -1,0 +1,6 @@
+com\grupo\geopago\modelado\Main.class
+com\grupo\geopago\modelado\Figura.class
+com\grupo\geopago\modelado\Triangulo.class
+com\grupo\geopago\modelado\Circulo.class
+com\grupo\geopago\modelado\Cuadrado.class
+com\grupo\geopago\modelado\FiguraFactory.class
