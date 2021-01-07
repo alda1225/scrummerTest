@@ -29,7 +29,6 @@ redundancia de código.
 - Cada una de sus concreciones debe, ante la invocación de alguno de sus
 métodos, retornar el valor correspondiente o null en caso de que la figura
 geométrica correspondiente no posea dicha característica.
--
 En caso de conocer la notación se valorará el diseño de su diagrama UML.
 
 
