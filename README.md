@@ -12,7 +12,8 @@ Al correr la aplicacion se imprime en consola los datos ingresado en la funcion 
 
 <p>- Todo esto puede ser probado y parametrizado en la clase Main</p>
 
-
+<br></br>
+<br></br>
 <p><strong>MODELADO DE CLASES</strong></p>
 
 Desarrollar una clase que permita la creación de objetos que representen figuras
